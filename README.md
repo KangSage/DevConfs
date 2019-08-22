@@ -8,4 +8,4 @@
 
 ### 2019-08-21
 
-#### [NAVER GLACE Dev Meetup #Day2](/2019-08/NAVER-GLACE-Dev-Meetup-#Day2.md)
+#### [NAVER GLACE Dev Meetup #Day2](/2019-08/NAVER-GLACE-Dev-Meetup-%23Day2.md)
