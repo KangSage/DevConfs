@@ -148,12 +148,12 @@
     * etc…
   * 이미 팀 내에서 React를 많이 사용하고, 여러가지 장점을 고려하여 React Native로 결정
     * Markup 담당자와 분업 가능
-    * Redux / MobX / Apollo / GraphQL / Lottie / React-Spring 등
+    * Redux / MobX / Apollo / GraphQL / Lottie / React-Spring 등  
       기존 React에 사용하는 기술들 전부 그대로 활용 가능.
 
 * 앱만의 경험들
   * UX Launch Screen을 앱에서 띄워줘야함.
-  * 개발보다 자체보다 오히려 Apple App Store / Android Play Store에 출시하는 것이 가장 어려웠음.
+  * 개발 자체보다 오히려 Apple App Store / Android Play Store에 출시하는 것이 가장 어려웠음.
   * 처음 겪는 생태계에 관한 삽질이 많았음.
 
 * 성능 이슈 - 브릿지
@@ -162,7 +162,7 @@
   * ScrollView vs FlatList
     * ScrollView는 구현은 쉬우나 무한 휠 스크롤 시 메모리를 많이 차지함.
     * FlatList는 화면에서 보이지 않는 부분은 지우므로 메모리를 절약.
-  * React Native에 최적화된 Node engin을 직접 만들어서 오픈소스에 기여함. 
+  * React Native에 최적화된 Node engin을 직접 만들어서 오픈소스에 기여함.
   * 결론 : React Native의 넓은 커뮤니티를 통한 해결 방법은 다 있다.
 
 * 장점
@@ -237,7 +237,7 @@
     * IntellJ에 자동 Delombok 기능이 있으나 사용할 경우 코드가 지저분한 단점이 있음.
   * equals 메서드의 경우 기존 코드에 적용 시 이슈가 있어  
     equals를 오버라이딩하는 부모 클래스를 만든 뒤 상속 받는 방식으로 처리
-  * QuaryDSL QClass를 생성할 경우 컴파일의 우선순위 이슈로
+  * QuaryDSL QClass를 생성할 경우 컴파일의 우선순위 이슈로  
     코틀린으로 작성된 entity의 Getter/Setter를 찾지 못하는 문제가 발생.
 
 ## 채용에 관하여
